@@ -1,0 +1,27 @@
+#plan-title{
+    font-size: 34px;
+    text-align: center;
+    padding: 50px;
+}
+
+#plan-options{
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+#signup form{
+    margin: 0 auto;
+    width: 400px;
+    padding-bottom: 30px;
+}
+
+#payment form{
+    margin: 0 auto;
+    width: 400px;
+    padding-bottom: 50px;
+}
+
+.card-body .card-title{
+    padding-left:15px;
+}

@@ -1,0 +1,47 @@
+#search{
+    padding-top: 20px;
+    background-color:#98E3CB;
+    text-align: center;
+    width: 100%;
+    height: 150px;
+}
+
+#search-input{
+    margin: 30px auto;
+}
+
+#col-filters{
+    margin-left: 7%;
+    margin-top: 5%;
+    width: 150px;
+    position: absolute;
+    height: 100%;
+    /* border-right: solid #E9EBEE; */
+}
+
+#col-filters #title{
+    font-size: 30px;
+}
+
+#col-filters label{
+    padding-bottom: 10px;
+}
+
+#col-filters, #items{
+    display: inline-block;
+}
+
+#items{
+    width: 75%;
+    margin-left: 20%;
+    padding-bottom: 150px;
+}
+
+#items .title{
+    font-size: 28px;
+}
+
+#items .item button{
+    padding-top: 5px;
+    margin-top: 5%;
+}

@@ -1,0 +1,149 @@
+#nav{
+    background-color:#98E3CB;
+    height: 100px;
+}
+
+#nav #logo{
+    font-weight: 900;
+    font-size: 28px;
+    padding-top: 0px;
+    padding-left: 50px;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+#nav #links{
+    padding-top: 30px;
+    padding-right: 50px;
+    float: right;
+}
+
+#nav #links ul li a{
+    color: white !important;
+}
+
+.btn{
+    border-radius: 50px !important;
+}
+
+#logo, #links{
+    display: inline-block;
+}
+
+#banner{
+    text-align: center;
+    padding-top: 200px;
+}
+.jumbotron {
+    background-image: url("../assets/HeroImage.jpeg");
+    background-size: cover;
+    height: 600px;
+}
+
+.getstarted{
+    background-color: #98E3CB !important;
+    border-color: #98E3CB !important;
+    color: black;
+}
+
+#main-container{
+    height: 100%;
+    width: 100%;
+}
+
+#about-title{
+    padding-bottom: 50px;
+    padding-top: 25px;
+}
+
+#about{
+    width: 100%;
+}
+
+#about-container{
+    text-align: center;
+}
+
+.stat{
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    text-align: center;
+}
+
+.stat .info{
+    padding: 50px;
+    padding-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+#sample-items{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    background-color:#E9EBEE;
+}
+
+#sample-items .title{
+    color:#30A64A;
+    padding: 25px;
+}
+
+.item{
+    width:250px;
+    height:350px;
+    padding-top:40px;
+    display: inline-block;
+    text-align: center;
+}
+
+#sample-items .item .img{
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+#sample-items .item .name{
+    font-weight: 300;
+    font-size: 28px;
+}
+
+#footer{
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color:black;
+    color: white;
+}
+
+#footer .column{
+    width: 300px;
+    padding: 50px;
+    display: inline-block;
+}
+
+#footer .column .title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+}
+
+#footer .column .sub-title i{
+    padding-right: 10px;
+    color: white;
+}
+
+#login-form{
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 140px;
+}
+
+#login-button{
+    text-align: center;
+    /* margin-left: 45%; */
+    width: 100%;
+    background-color: #98E3CB !important;
+    border-color: #98E3CB !important;
+}
